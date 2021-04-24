@@ -12,7 +12,7 @@ i did something but not a big project
 **My scripts languages**
 - Bat, PowerShell, VBscript, Jscript
 
-### Projects that i'm focused in at this time.
+### Projects that i'm focused in last month.
 
 #### Devbook
 - [Devbook](https://github.com/hiagosilverio/web-devbook/wiki)
