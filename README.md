@@ -1,6 +1,13 @@
 
 Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share to people too.
 
+### My main languages
+- PHP
+- Javascript
+
+### My side languages
+- C#, C, Java, Python.
+
 ### Projects that i'm focused in at this time.
 
 #### Devbook
