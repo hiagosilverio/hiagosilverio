@@ -1,16 +1,5 @@
 
-Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share to people too.
-
-**My main languages/frameworks**
-- PHP, Javascript, jQuery
-
-**My side languages/frameworks**
-i did something but not a big project
-
-- C#, C, Java, Python, Vue.js
-
-**My scripts languages**
-- Bat, PowerShell, VBscript, Jscript
+Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share stuff to people too.
 
 ### Star List
 [Watch my feed here](https://github.com/hiagosilverio?tab=stars)
@@ -24,3 +13,16 @@ i did something but not a big project
 ### Other Projects.
 
 - [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
+
+
+**My main languages/frameworks**
+- PHP, Javascript, jQuery
+
+**My side languages/frameworks**
+i did something but not a big project
+
+- C#, C, Java, Python, Vue.js
+
+**My scripts languages**
+- Bat, PowerShell, VBscript, Jscript
+
