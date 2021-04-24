@@ -1,7 +1,7 @@
 
 Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share stuff to people too.
 
-### Star List
+### 🌟 Star List
 [Watch my feed here](https://github.com/hiagosilverio?tab=stars)
 
 ### Projects that i'm focused in last month.
