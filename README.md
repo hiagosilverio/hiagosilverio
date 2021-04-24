@@ -2,14 +2,13 @@
 Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share to people too.
 
 **My main languages**
-- PHP
-- Javascript
+- PHP, JavaScript
 
 **My side languages**
 - C#, C, Java, Python.
 
 **Scripts**
-Bat, PoweShell, VBscript, Jscript.
+- Bat, PowerShell, VBscript, Jscript.
 
 ### Projects that i'm focused in at this time.
 
