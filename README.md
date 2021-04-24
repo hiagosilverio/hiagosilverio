@@ -5,7 +5,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 
 #### Devbook
 - [Devbook](https://github.com/hiagosilverio/web-devbook/wiki)
-- [What is a devbook btw?](https://github.com/hiagosilverio/web-devbook/readme.md)
+- [What is a devbook btw?](https://github.com/hiagosilverio/web-devbook)
 
 ### Other Projects.
 
