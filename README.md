@@ -12,6 +12,9 @@ i did something but not a big project
 **My scripts languages**
 - Bat, PowerShell, VBscript, Jscript
 
+### Star List
+[Watch my feed here](https://github.com/hiagosilverio?tab=stars)
+
 ### Projects that i'm focused in last month.
 
 #### Devbook
