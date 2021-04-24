@@ -4,7 +4,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 **My main languages**
 - PHP, JavaScript
 
-**My side languages (i did something but study stuff)**
+**My side languages (i did something but not a big project)**
 - C#, C, Java, Python.
 
 **My scripts languages**
