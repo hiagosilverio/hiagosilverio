@@ -4,10 +4,10 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 **My main languages**
 - PHP, JavaScript
 
-**My side languages**
+**My side languages (i did something but study stuff)**
 - C#, C, Java, Python.
 
-**Scripts languages**
+**My scripts languages**
 - Bat, PowerShell, VBscript, Jscript.
 
 ### Projects that i'm focused in at this time.
