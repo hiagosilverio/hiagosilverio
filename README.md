@@ -16,7 +16,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 
 
 ### About me 
-====
+---
 
 **My main languages/frameworks**
 - PHP, Javascript, jQuery
