@@ -8,7 +8,6 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 
 #### Devbook
 - [Devbook](https://github.com/hiagosilverio/web-devbook)
-- [What is a devbook btw?](https://github.com/hiagosilverio/web-devbook/blob/main/intro.md)
 
 ### Other Projects
 
