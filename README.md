@@ -14,7 +14,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 - [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
 
 
-### About me 
+## About me 
 
 #### My main languages/frameworks 
 - PHP, Javascript, jQuery
