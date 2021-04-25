@@ -4,7 +4,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 ### 🌟 Star List
 [See my feed here](https://github.com/hiagosilverio?tab=stars)
 
-### Projects that I'm focused in last month.
+### Projects in progress
 
 #### Devbook
 - [Devbook](https://github.com/hiagosilverio/web-devbook)
