@@ -21,7 +21,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 #### My main languages/frameworks ####
 - PHP, Javascript, jQuery
 
-#### My side languages/frameworks #### <br/>
+#### My side languages/frameworks ####
 I did something but not a big project
 
 - C#, C, Java, Python, Vue.js
