@@ -22,7 +22,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 #### My side languages/frameworks
 I did something but not a big project
 
-- C#, C, Java, Python, Vue.js
+- C#, C, Java, Python, Vue.js, React.js
 
 #### My scripts languages
 - Bat, PowerShell, VBscript, Jscript
