@@ -6,10 +6,8 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 ### 🌟 Star List
 [See my feed here](https://github.com/hiagosilverio?tab=stars)
 
-### Projects in progress
-
-#### Devbook
-- [Devbook](https://github.com/hiagosilverio/web-devbook)
+### My Wiki
+[My Wiki](https://github.com/hiagosilverio/my-wiki)
 
 ### Other Projects
 
