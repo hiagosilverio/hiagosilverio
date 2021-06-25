@@ -1,5 +1,7 @@
 
 Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share stuff to people too.
+### Learn base
+[Codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
 
 ### 🌟 Star List
 [See my feed here](https://github.com/hiagosilverio?tab=stars)
