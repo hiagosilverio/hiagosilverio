@@ -1,5 +1,5 @@
 
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=black&right_color=gray)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=black&right_color=gray) <br/>
 Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share stuff to people too.
 
 [[Medium](https://medium.com/@hiagosilverio)]
