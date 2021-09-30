@@ -4,6 +4,7 @@ Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and sh
 
 [[Medium](https://medium.com/@hiagosilverio)]
 [[StackOverflow](https://joomla.stackexchange.com/users/8223/hiago-silv%c3%)]
+[[CodePen](https://codepen.io/hiago_silverio)]
 
 ### Learn base
 [Codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
