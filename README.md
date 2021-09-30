@@ -1,6 +1,6 @@
 
 Hi, i'm an web developer welcome to my git, also i'm here to insert ideas and share stuff to people too.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=78170&left_color=green&right_color=red)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=green&right_color=red)
 [[Medium](https://medium.com/@hiagosilverio)]
 [[StackOverflow](https://joomla.stackexchange.com/users/8223/hiago-silv%c3%)]
 
