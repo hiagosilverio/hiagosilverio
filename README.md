@@ -8,7 +8,7 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 [[StackOverflow](https://joomla.stackexchange.com/users/8223/hiago-silv%c3%)]
 [[CodePen](https://codepen.io/hiago_silverio)]
 
-### My Wiki
+### Repo's
 [My Wiki](https://github.com/78170/my-wiki)
 
 ### 👥 Followers
