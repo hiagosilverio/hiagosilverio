@@ -1,5 +1,5 @@
 
-![views](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=black&right_color=gray) 
+<!--![views](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=black&right_color=gray)-->
 ![last-commit](https://img.shields.io/github/last-commit/78170/78170?color=%23000&label=Last%20Update%20Date)<br/>
 Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 
