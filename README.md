@@ -21,6 +21,9 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 
 - [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
 
+## Followers
+Take some time to see their jobs 
+[My followers list](https://github.com/78170?tab=followers) 
 
 ## About me 
 
@@ -36,8 +39,6 @@ I did something but not a big project
 - Bat, PowerShell, VBscript, Jscript
 
 
-[My followers list](https://github.com/78170?tab=followers) 
-Take some time to see their jobs 
 
 
 
