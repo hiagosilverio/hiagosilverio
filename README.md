@@ -14,7 +14,7 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 ### 🌟 Star List
 [See my feed here](https://github.com/hiagosilverio?tab=stars)
 
-[My followers list](https://github.com/78170?tab=followers)
+[My followers list](https://github.com/78170?tab=followers) <br/>
 Also give me a follow I'll show you at my homepage.
 
 ### My Wiki
