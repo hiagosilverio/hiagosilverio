@@ -2,15 +2,20 @@
 ![views](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=black&right_color=gray) <br/>
 Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 
+### Quick Links
 [[Medium](https://medium.com/@hiagosilverio)]
 [[StackOverflow](https://joomla.stackexchange.com/users/8223/hiago-silv%c3%)]
 [[CodePen](https://codepen.io/hiago_silverio)]
+
 
 ### Learn base
 [Codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
 
 ### 🌟 Star List
 [See my feed here](https://github.com/hiagosilverio?tab=stars)
+
+[My followers list](https://github.com/78170?tab=followers)
+Also give me a follow I'll show you at my homepage.
 
 ### My Wiki
 [My Wiki](https://github.com/hiagosilverio/my-wiki)
@@ -32,4 +37,7 @@ I did something but not a big project
 
 #### My scripts languages
 - Bat, PowerShell, VBscript, Jscript
+
+
+
 
