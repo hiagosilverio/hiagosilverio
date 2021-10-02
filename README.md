@@ -1,5 +1,6 @@
 
-![views](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=black&right_color=gray) <br/>
+![views](https://visitor-badge.glitch.me/badge?page_id=78170.78170&left_color=black&right_color=gray) 
+![last-commit](https://img.shields.io/github/last-commit/78170/78170?color=%23000)<br/>
 Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 
 ### Quick Links
@@ -18,7 +19,6 @@ Take some time to
 - [My codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
 - [Projects that I follow](https://github.com/78170?tab=stars)
 - [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
-- [Commit Log of this file](https://github.com/78170/78170/commits/main/README.md)
 
 
 ## About me 
