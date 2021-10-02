@@ -15,10 +15,10 @@ Take some time to
 [see their jobs](https://github.com/78170?tab=followers) 
 
 ### Other Links
-[My codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
-[Projects that I follow](https://github.com/78170?tab=stars)
-[Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
-[Log](https://github.com/78170/78170/commits/main/README.md)
+- [My codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
+- [Projects that I follow](https://github.com/78170?tab=stars)
+- [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
+- [Commit Log of this file](https://github.com/78170/78170/commits/main/README.md)
 
 
 ## About me 
