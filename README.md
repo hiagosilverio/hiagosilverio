@@ -10,7 +10,7 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 ### My Wiki
 [My Wiki](https://github.com/78170/my-wiki)
 
-## Followers
+### Followers
 Take some time to
 [see their jobs](https://github.com/78170?tab=followers) 
 
