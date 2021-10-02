@@ -14,9 +14,6 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 ### 🌟 Star List
 [See my feed here](https://github.com/hiagosilverio?tab=stars)
 
-[My followers list](https://github.com/78170?tab=followers) <br/>
-Also give me a follow I'll show you at my homepage.
-
 ### My Wiki
 [My Wiki](https://github.com/hiagosilverio/my-wiki)
 
@@ -38,6 +35,9 @@ I did something but not a big project
 #### My scripts languages
 - Bat, PowerShell, VBscript, Jscript
 
+
+[My followers list](https://github.com/78170?tab=followers) 
+Take some time to see their jobs 
 
 
 
