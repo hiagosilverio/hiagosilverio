@@ -7,12 +7,8 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 [[StackOverflow](https://joomla.stackexchange.com/users/8223/hiago-silv%c3%)]
 [[CodePen](https://codepen.io/hiago_silverio)]
 
-
 ### Learn base
 [Codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
-
-### 🌟 Star List
-[See my feed here](https://github.com/78170?tab=stars)
 
 ### My Wiki
 [My Wiki](https://github.com/78170/my-wiki)
@@ -24,6 +20,9 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 ## Followers
 Take some time to
 [see their jobs](https://github.com/78170?tab=followers) 
+
+
+[Projects that I follow](https://github.com/78170?tab=stars)
 
 ## About me 
 
