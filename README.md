@@ -12,10 +12,10 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 [Codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
 
 ### 🌟 Star List
-[See my feed here](https://github.com/hiagosilverio?tab=stars)
+[See my feed here](https://github.com/78170?tab=stars)
 
 ### My Wiki
-[My Wiki](https://github.com/hiagosilverio/my-wiki)
+[My Wiki](https://github.com/78170/my-wiki)
 
 ### Other Projects
 
