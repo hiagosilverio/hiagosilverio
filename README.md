@@ -11,15 +11,10 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 ### Repo's
 [My Wiki](https://github.com/78170/my-wiki)
 
-### 👥 Followers
-Take some time to
-[see their jobs](https://github.com/78170?tab=followers) 
-
 ### Other Links
 - [My codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
 - [Projects that I liked](https://github.com/78170?tab=stars)
 - [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
-
 
 ## About me 
 
