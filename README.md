@@ -7,7 +7,7 @@ Welcome to my git, also i'm here to insert ideas and share stuff to people too.
 [[Medium](https://medium.com/@hiagosilverio)]
 [[StackOverflow](https://joomla.stackexchange.com/users/8223/hiago-silv%c3%)]
 [[CodePen](https://codepen.io/hiago_silverio)]
-[[Behance](https://www.behance.net/mainNetwork-silverio)]
+[[Behance](https://www.behance.net/beh4nce-silverio)]
 
 
 ### Repo's
