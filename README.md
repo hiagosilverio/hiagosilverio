@@ -11,7 +11,7 @@ Welcome to my git, some ideas and stuff.
 
 
 ### Repo's
-[My Wiki](https://github.com/78170/my-wiki) ![last-commit](https://img.shields.io/github/last-commit/78170/my-wiki?color=%23000&cacheSeconds=5)<br/>
+[My Wiki](https://github.com/78170/my-wiki) | ![last-commit](https://img.shields.io/github/last-commit/78170/my-wiki?color=%23000&cacheSeconds=5)<br/>
 
 ### Other Links
 - [My codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
