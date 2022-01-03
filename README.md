@@ -5,7 +5,7 @@ Welcome to my git, some ideas and stuff.
 
 ### Quick Links
 [[Medium](https://medium.com/@hiagosilverio)]
-[[StackOverflow](https://joomla.stackexchange.com/users/8223/hiago-silv%c3%)]
+[[StackOverflow](https://stackoverflow.com/users/6745038/hiago-silv%c3%a9rio)]
 [[CodePen](https://codepen.io/codepen-silverio)]
 [[Behance](https://www.behance.net/beh4nce-silverio)]
 
