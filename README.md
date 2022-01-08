@@ -3,6 +3,10 @@
 ![last-commit](https://img.shields.io/github/last-commit/78170/78170?color=%23000&label=Last%20Update%20Date&cacheSeconds=30)<br/>
 Welcome to my git, some ideas and stuff.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=78170)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Quick Links
 [[Medium](https://medium.com/@hiagosilverio)]
 [[StackOverflow](https://stackoverflow.com/users/6745038/hiago-silv%c3%a9rio)]
