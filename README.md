@@ -3,8 +3,6 @@
 ![last-commit](https://img.shields.io/github/last-commit/78170/78170?color=%23000&label=Last%20Update%20Date&cacheSeconds=30)<br/>
 Welcome to my git, some ideas and stuff.
 
-[![Hiago Silverio GitHUB Status](https://github-readme-stats.vercel.app/api?username=78170&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Medium](https://img.shields.io/badge/medium-333?style=for-the-badge&logo=medium)](https://medium.com/@hiagosilverio)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-333?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/6745038/hiago-silv%c3%a9rio)
 [![CodePen](https://img.shields.io/badge/CodePen-333?style=for-the-badge&logo=codepen)](https://codepen.io/codepen-silverio)
