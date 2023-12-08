@@ -26,7 +26,7 @@ Welcome to my git, some ideas and stuff.
 ## About me 
 
 #### My main languages/frameworks 
-- PHP, Javascript, jQuery
+- PHP, Java, Javascript, jQuery
 
 #### My side languages/frameworks
 I did something but not a big project
