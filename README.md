@@ -23,18 +23,7 @@ Welcome to my git, some ideas and stuff.
 - [Projects that I liked](https://github.com/78170?tab=stars)
 - [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
 
-## About me 
 
-#### My main languages/frameworks 
-- PHP, Java, Javascript, jQuery
-
-#### My side languages/frameworks
-I did something but not a big project
-
-- C#(Forms, .Net, Ado.Net), C, Java (JSF), Python, Javascript(Vue.js, React.js, Babel, Node.js)
-
-#### My scripts languages
-- Bat, PowerShell, VBscript, Jscript
 
 
 
