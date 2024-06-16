@@ -19,9 +19,7 @@ Welcome to my git, some ideas and stuff.
 [My Wiki](https://github.com/78170/my-wiki) |  📅![last-commits](https://img.shields.io/github/last-commit/78170/my-wiki?color=%23000&label=%20&cacheSeconds=5)<br/>
 
 ### Other Links
-- [My codeacademy](https://www.codecademy.com/profiles/hiago.silverio)
 - [Projects that I liked](https://github.com/78170?tab=stars)
-- [Challenge 0 PHP](https://github.com/hiagosilverio/challenge-0-php/blob/master/README.md)
 
 
 
