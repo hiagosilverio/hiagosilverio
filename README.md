@@ -15,11 +15,7 @@ Welcome to my git, some ideas and stuff.
 
 [//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=78170)](https://github.com/anuraghazra/github-readme-stats)"
 [//]: # "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
-### Repo's
-[My Wiki](https://github.com/78170/my-wiki) |  📅![last-commits](https://img.shields.io/github/last-commit/78170/my-wiki?color=%23000&label=%20&cacheSeconds=5)<br/>
 
-### Other Links
-- [Projects that I liked](https://github.com/78170?tab=stars)
 
 
 
