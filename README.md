@@ -16,6 +16,11 @@ Welcome to my git, some ideas and stuff.
 [//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=78170)](https://github.com/anuraghazra/github-readme-stats)"
 [//]: # "[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
 
+<p></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silveriohiago&layout=donut&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
