@@ -8,9 +8,10 @@ Welcome to my git, some ideas and stuff.
 [![Behance](https://img.shields.io/badge/Behance-333?style=for-the-badge&logo=behance)](https://www.behance.net/beh4nce-silverio)
 
 <div class="icons">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="float:left;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" style="margin:20px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="margin:20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40px" style="float:left;" alt="java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="float:left;" alt="html5">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" style="margin:20px;" alt="css3">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="margin:20px;" alt="javascript">
 </div>
 
 [//]: # "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=78170)](https://github.com/anuraghazra/github-readme-stats)"
